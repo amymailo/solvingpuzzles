@@ -7,6 +7,9 @@ Our project adapts the idea using a neural network with a U-Net-like architectur
 
 To test the reproducibility of our code, we create a new dataset. Our approach is inspired by the scholarly work's emphasis on compatibility metrics for predicting piece adjacency.
 
+D. Pomeranz, M. Shemesh and O. Ben-Shahar, "A fully automated greedy square jigsaw puzzle solver," CVPR 2011, Colorado Springs, CO, USA, 2011, pp. 9-16, doi: 10.1109/CVPR.2011.5995331.
+
+
 
 # Overview
 In this puzzle project, we explore an existing solution for solving jigsaw puzzles, accessible at this Kaggle link (https://www.kaggle.com/datasets/serhiibiruk/jigsaw-puzzle). The provided code employs a neural network-based approach utilizing a U-Net-like architecture to predict the permutation of pieces in a puzzle.
