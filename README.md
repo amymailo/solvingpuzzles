@@ -1,7 +1,14 @@
 # solvingpuzzles
 
-## Solving Puzzles Overview
+## Summary 
+In this puzzle project, we explore a solution for jigsaw puzzles, inspired by a scholarly paper titled "A fully automated greedy square jigsaw puzzle solver" (CVPR 2011, D. Pomeranz et al.). The paper introduces a method to solve square jigsaw puzzles without prior knowledge of the image or its parts' locations.
 
+Our project adapts the idea using a neural network with a U-Net-like architecture to predict how puzzle pieces should be arranged. We evaluate the model's performance subjectively by visualizing predicted arrangements and objectively by calculating accuracy on a test set.
+
+To test the reproducibility of our code, we create a new dataset. Our approach is inspired by the scholarly work's emphasis on compatibility metrics for predicting piece adjacency.
+
+
+# Overview
 In this puzzle project, we explore an existing solution for solving jigsaw puzzles, accessible at this Kaggle link (https://www.kaggle.com/datasets/serhiibiruk/jigsaw-puzzle). The provided code employs a neural network-based approach utilizing a U-Net-like architecture to predict the permutation of pieces in a puzzle.
 
 
