@@ -1,5 +1,6 @@
 # solvingpuzzles
 
+
 ## Summary 
 In this puzzle project, we explore a solution for jigsaw puzzles, inspired by a scholarly paper titled "A fully automated greedy square jigsaw puzzle solver" (CVPR 2011, D. Pomeranz et al.). The paper introduces a method to solve square jigsaw puzzles without prior knowledge of the image or its parts' locations.
 
