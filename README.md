@@ -39,7 +39,8 @@ The model may encounter failure cases where it struggles to accurately predict t
 
 
 ## Reproducibility
-We aim to test the reproducibility of the provided code by implementing similar code and creating a new dataset. This approach ensures a robust assessment of the model's performance and generalizability to different puzzle configurations. Here is the dataset we created (https://www.kaggle.com/datasets/68c01d9e96297772024708405f92f941fb1bfc919ae9f4a9df52ed889f1f2640). Within this respository, you can find the code we used. 
+We aim to test the reproducibility of the provided code by implementing similar code and creating a new dataset. This approach ensures a robust assessment of the model's performance and generalizability to different puzzle configurations. Here is the dataset we created ([https://www.kaggle.com/datasets/68c01d9e96297772024708405f92f941fb1bfc919ae9f4a9df52ed889f1f2640](https://kaggle.com/datasets/bbec2171f34965a432783efb7b709e6a7ff5a3e8cde6b2fe5060fe29bb6d111f
+)). Within this respository, you can find the code we used. 
 
 
 ## Next Steps
